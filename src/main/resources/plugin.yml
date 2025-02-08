@@ -1,0 +1,7 @@
+name: PvPProtection
+version: '1.0'
+main: net.daechler.pvPProtection.PvPProtection
+api-version: '1.21'
+authors: [ Daechler ]
+description: A simple Minecraft plugin!
+website: https://daechler.net/
